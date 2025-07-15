@@ -1,15 +1,6 @@
 # 6r3eN's DWM Config
 
-My personal build of [dwm](https://dwm.suckless.org/) — patched, tweaked, and themed to my liking.
-
-## 🧩 Features
-- Centered window layout
-- Transparent bar with custom colors
-- Nerd Font support
-- Keybindings for launching apps, layout switching, and more
-
-## 📸 Screenshot
-Coming soon... (or add one if you want)
+My personal [dwm](https://dwm.suckless.org/)
 
 ## 🛠️ Installation
 
